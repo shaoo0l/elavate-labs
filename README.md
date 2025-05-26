@@ -14,4 +14,5 @@ Not shown: 65535 closed tcp ports (reset)
 
 Nmap done: 1 IP address (1 host up) scanned in 2.05 seconds
 
-4.all the ports are in ignored state. all the ports are closed, no open ports found.
+4.conclusion
+all the ports are in ignored state. all the ports are closed, no open ports found.
